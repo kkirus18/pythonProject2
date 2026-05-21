@@ -17,17 +17,17 @@
    ```bash
    git clone https://github.com/kkirus18/pythonProject2.git
    cd pythonProject2
-Создайте виртуальное окружение:
+2. Создайте виртуальное окружение:
 
 bash
 python -m venv .venv
-2. Активируйте окружение:
+3. Активируйте окружение:
 
 Windows: .venv\Scripts\activate
 
 Linux/macOS: source .venv/bin/activate
 
-Запустите программу:
+4. Запустите программу:
 
 bash
 python main.py
